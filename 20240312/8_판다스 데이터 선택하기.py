@@ -207,3 +207,10 @@ print(df[w])
 #                   date  temp  max_wind  mean_wind
 # date
 # 2013-08-09  2013-08-09  30.6       9.9        6.4
+
+
+
+
+
+
+
